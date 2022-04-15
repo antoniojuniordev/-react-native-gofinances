@@ -1,4 +1,4 @@
-package com.webstylus.gofinances;
+package com.antoniojuniordev.gofinances;
 import android.content.res.Configuration;
 import android.content.Intent;
 

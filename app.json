@@ -2,18 +2,23 @@
   "expo": {
     "name": "gofinances",
     "slug": "gofinances",
-    "owner": "webstylus",
+    "owner": "antoniojuniordev",
     "scheme": "gofinances",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
     ],
+    "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/images/splash.png",
       "backgroundColor": "#5636D3"
     },
     "android": {
-      "package": "com.webstylus.gofinances"
+      "package": "com.antoniojuniordev.gofinances"
+    },
+    "ios": {
+      "bundleIdentifier": "com.antoniojuniordev.gofinances",
+      "buildNumber": "1.0.0"
     },
     "description": ""
   },
