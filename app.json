@@ -8,9 +8,14 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "backgroundColor": "#5636D3"
+    },
     "android": {
       "package": "com.webstylus.gofinances"
-    }
+    },
+    "description": ""
   },
   "name": "gofinances"
 }
